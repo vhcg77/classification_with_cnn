@@ -1,0 +1,26 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: 2043-8E8B
+
+ Directorio de C:\Users\vhcg77\OneDrive\iris_project\cookiecutter-data-science
+
+19-02-2020  16:36    <DIR>          .
+19-02-2020  16:27    <DIR>          ..
+19-02-2020  16:27               471 .env
+19-02-2020  16:27             1.092 .gitignore
+19-02-2020  16:27    <DIR>          data
+19-02-2020  16:27    <DIR>          docs
+19-02-2020  16:27             1.085 LICENSE
+19-02-2020  16:36                 0 listing.txt
+19-02-2020  16:27             4.837 Makefile
+19-02-2020  16:27    <DIR>          models
+19-02-2020  16:27    <DIR>          notebooks
+19-02-2020  16:27             2.977 README.md
+19-02-2020  16:27    <DIR>          references
+19-02-2020  16:27    <DIR>          reports
+19-02-2020  16:27               113 requirements.txt
+19-02-2020  16:27               226 setup.py
+19-02-2020  16:27    <DIR>          src
+19-02-2020  16:27               657 test_environment.py
+19-02-2020  16:27                53 tox.ini
+              10 archivos         11.511 bytes
+               9 dirs  41.740.242.944 bytes libres
